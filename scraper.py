@@ -39,7 +39,7 @@ def extract_next_links(url, resp):
     # print(valid_urls)
     # print(soup.find_all('link'))
     # print(f'url: {url}, resp url: {resp.raw_response.url}, content: {resp.raw_response.content}')
-    # return valid_urls
+    return list()
 
 def is_valid(url):
     # Decide whether to crawl this url or not. 
