@@ -1,5 +1,5 @@
 import re
-from urllib.parse import urlparse
+from urllib.parse import urlparse, urljoin, urlunparse
 from bs4 import BeautifulSoup
 
 def scraper(url, resp):
@@ -7,7 +7,6 @@ def scraper(url, resp):
     return [link for link in links if is_valid(link)]
 
 def extract_next_links(url, resp):
-    soup = BeautifulSoup(resp.raw_response.content, 'html.parser')
     # Implementation required.
     # url: the URL that was used to get the page
     # resp.url: the actual url of the page
@@ -17,11 +16,30 @@ def extract_next_links(url, resp):
     #         resp.raw_response.url: the url, again
     #         resp.raw_response.content: the content of the page!
     # Return a list with the hyperlinks (as strings) scrapped from resp.raw_response.content
-
-    # test
-    print(soup.find_all('link'))
+    
+    # if there is no content in the URL it will return nothing
+    if resp.raw_response is None:
+        return []  
+    soup = BeautifulSoup(resp.raw_response.content, 'html.parser')
+    #Grab all the links on the page that points to another URL
+    links= soup.find_all('a', href=True)
+    all_full_url=[]
+    for link in links:
+        href = link.get('href')
+        # When a webpage contains a link, it might be given as a relative URL, meaning it doesn’t include the full address
+        # Combine relative URLs with base URL, for example realtive URL like "/page2" 
+        # and base URL, http://example.com to make a full_url http://example.com/page2
+        full_url = urljoin(url, href)  
+        parsed = urlparse(full_url)
+         # Remove fragment part so the web crawler does not think it is a different website
+        full_url = urlunparse(parsed._replace(fragment="")) 
+        all_full_url.append(full_url)
+    
+    return all_full_url
+    # print(valid_urls)
+    # print(soup.find_all('link'))
     # print(f'url: {url}, resp url: {resp.raw_response.url}, content: {resp.raw_response.content}')
-    return list()
+    # return valid_urls
 
 def is_valid(url):
     # Decide whether to crawl this url or not. 
