@@ -18,7 +18,7 @@ def extract_next_links(url, resp):
     # Return a list with the hyperlinks (as strings) scrapped from resp.raw_response.content
     
     # if there is no content in the URL it will return nothing
-    if resp.raw_response is None:
+    if resp.raw_response is None :
         return []  
     soup = BeautifulSoup(resp.raw_response.content, 'html.parser')
     #Grab all the links on the page that points to another URL
@@ -29,12 +29,16 @@ def extract_next_links(url, resp):
         # When a webpage contains a link, it might be given as a relative URL, meaning it doesn’t include the full address
         # Combine relative URLs with base URL, for example realtive URL like "/page2" 
         # and base URL, http://example.com to make a full_url http://example.com/page2
-        full_url = urljoin(url, href)  
-        parsed = urlparse(full_url)
+        # full_url = urljoin(url, href)  
+        parsed = urlparse(href)
          # Remove fragment part so the web crawler does not think it is a different website
         full_url = urlunparse(parsed._replace(fragment="")) 
-        all_full_url.append(full_url)
+        if full_url:
+            all_full_url.append(full_url)
+        print(f'link: {link} parsed: {parsed} full_url: {full_url}')
     
+    print()
+    print(all_full_url)
     return all_full_url
     # print(valid_urls)
     # print(soup.find_all('link'))
