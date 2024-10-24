@@ -1,5 +1,5 @@
 import re
-from urllib.parse import urlparse
+from urllib.parse import urlparse, urljoin, urlunparse
 from bs4 import BeautifulSoup
 
 def scraper(url, resp):
@@ -17,9 +17,23 @@ def extract_next_links(url, resp):
     #         resp.raw_response.url: the url, again
     #         resp.raw_response.content: the content of the page!
     # Return a list with the hyperlinks (as strings) scrapped from resp.raw_response.content
+    extracted_links = []
+    links = soup.find_all('a', href=True)
+    print(links)
+    # for link in links:
+    #     print(link)
+    #     href = link.get('href')
+    #     # When a webpage contains a link, it might be given as a relative URL, meaning it doesn’t include the full address
+    #     # Combine relative URLs with base URL, for example realtive URL like "/page2" 
+    #     # and base URL, http://example.com/ to make a full_url http://example.com/page2
+    #     # url = ics.uci.edu , href = ics.uci.edu/news
+    #     full_url_before = urljoin(url, href)
+        
+    #     parsed = urlparse(full_url)
+    #     # Remove fragment part so the web crawler does not think it is a different website
+    #     full_url = urlunparse(parsed._replace(fragment=""))
+    #     print(f'url: {url}, href: {href}, full_url_before: {full_url_before}, parsed: {parsed}, full_url: {full_url}')
 
-    # test
-    print(soup.find_all('link'))
     # print(f'url: {url}, resp url: {resp.raw_response.url}, content: {resp.raw_response.content}')
     return list()
 
