@@ -1,1 +1,298 @@
 IR UF24 65449845,55972013,19215401,93665104
+link: <a class="a11y-skip-link a11y-visual-hide" href="#a11y-skip-link-content">Skip to main content</a>, href: #a11y-skip-link-content
+link: <a class="" href="https://ics.uci.edu/" target="_self" title="">
+<img alt="UCI ICS logo" class="lazyload" data-expand="200" data-parent-fit="width" data-src="https://ics.uci.edu/wp-content/uploads/2020/06/logo-fullcolor.svg" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
+</a>, href: https://ics.uci.edu/
+link: <a class="mim__cta c-text-btn" href="https://ics.uci.edu/admissions-information-and-computer-science/">
+<span class="c-btn__text">Apply Now</span>
+</a>, href: https://ics.uci.edu/admissions-information-and-computer-science/
+link: <a class="primary__action primary__action--depth-2" href="https://ics.uci.edu/facts-figures/ics-mission-history/" id="menu-item-6528"><span class="c-text-btn-inner--black">Mission &amp; History</span></a>, href: https://ics.uci.edu/facts-figures/ics-mission-history/
+link: <a class="primary__action primary__action--depth-2" href="https://ics.uci.edu/facts-figures/" id="menu-item-6411"><span class="c-text-btn-inner--black">Facts &amp; Figures</span></a>, href: https://ics.uci.edu/facts-figures/
+link: <a class="primary__action primary__action--depth-1 primary__action--has-children" href="https://ics.uci.edu/admissions-information-and-computer-science/" id="menu-item-6410"><span class="c-text-btn-inner--black">Admissions</span></a>, href: https://ics.uci.edu/admissions-information-and-computer-science/
+link: <a class="primary__action primary__action--depth-2" href="https://ics.uci.edu/admissions-information-and-computer-science/admissions-process/" id="menu-item-5406"><span class="c-text-btn-inner--black">Undergraduate</span></a>, href: https://ics.uci.edu/admissions-information-and-computer-science/admissions-process/
+link: <a class="primary__action primary__action--depth-2" href="https://ics.uci.edu/admissions-information-and-computer-science/graduate-admissions/" id="menu-item-6939"><span class="c-text-btn-inner--black">Graduate</span></a>, href: https://ics.uci.edu/admissions-information-and-computer-science/graduate-admissions/
+link: <a class="primary__action primary__action--depth-2" href="https://ics.uci.edu/financial-aid-and-scholarships/undergraduate-financial-awards/" id="menu-item-6936"><span class="c-text-btn-inner--black">Undergraduate</span></a>, href: https://ics.uci.edu/financial-aid-and-scholarships/undergraduate-financial-awards/
+link: <a class="primary__action primary__action--depth-2" href="https://ics.uci.edu/academics/graduate-fellowships-funding/" id="menu-item-9876"><span class="c-text-btn-inner--black">Graduate</span></a>, href: https://ics.uci.edu/academics/graduate-fellowships-funding/
+link: <a class="mim__cta c-text-btn" href="https://ics.uci.edu/student-experience/">
+<span class="c-btn__text">Build Your Student Experience</span>
+</a>, href: https://ics.uci.edu/student-experience/
+link: <a class="primary__action primary__action--depth-1 primary__action--has-children" href="https://ics.uci.edu/academics/undergraduate-programs/" id="menu-item-6738"><span class="c-text-btn-inner--black">Undergraduate Programs</span></a>, href: https://ics.uci.edu/academics/undergraduate-programs/
+link: <a class="primary__action primary__action--depth-2" href="https://ics.uci.edu/academics/undergraduate#major" id="menu-item-7862"><span class="c-text-btn-inner--black">Majors &amp; Minors</span></a>, href: https://ics.uci.edu/academics/undergraduate#major
+link: <a class="primary__action primary__action--depth-2" href="https://ics.uci.edu/honors/" id="menu-item-17188"><span class="c-text-btn-inner--black">ICS Honors Program</span></a>, href: https://ics.uci.edu/honors/
+link: <a class="primary__action primary__action--depth-1" href="https://ics.uci.edu/academics/undergraduate-academic-advising/" id="menu-item-6611"><span class="c-text-btn-inner--black">Undergraduate Academic Advising</span></a>, href: https://ics.uci.edu/academics/undergraduate-academic-advising/
+link: <a class="primary__action primary__action--depth-1 primary__action--has-children" href="https://ics.uci.edu/academics/graduate-programs/" id="menu-item-5416"><span class="c-text-btn-inner--black">Graduate Programs</span></a>, href: https://ics.uci.edu/academics/graduate-programs/
+link: <a class="primary__action primary__action--depth-2" href="https://ics.uci.edu/academics/graduate-programs#researchprograms" id="menu-item-8246"><span class="c-text-btn-inner--black">Research</span></a>, href: https://ics.uci.edu/academics/graduate-programs#researchprograms
+link: <a class="primary__action primary__action--depth-2" href="https://ics.uci.edu/academics/graduate-programs#professionalprograms" id="menu-item-8247"><span class="c-text-btn-inner--black">Professional</span></a>, href: https://ics.uci.edu/academics/graduate-programs#professionalprograms
+link: <a class="primary__action primary__action--depth-1" href="https://ics.uci.edu/academics/graduate-academic-advising/" id="menu-item-9363"><span class="c-text-btn-inner--black">Graduate Academic Advising</span></a>, href: https://ics.uci.edu/academics/graduate-academic-advising/
+link: <a class="primary__action primary__action--depth-1 primary__action--has-children" href="https://ics.uci.edu/student-experience/" id="menu-item-6953"><span class="c-text-btn-inner--black">Student Experience</span></a>, href: https://ics.uci.edu/student-experience/
+link: <a class="primary__action primary__action--depth-2" href="https://oai.ics.uci.edu/" id="menu-item-7897" target="_blank"><span class="c-text-btn-inner--black">Outreach, Access &amp; Inclusion</span></a>, href: https://oai.ics.uci.edu/
+link: <a class="primary__action primary__action--depth-2" href="https://ics.uci.edu/academics/career-development/" id="menu-item-7033"><span class="c-text-btn-inner--black">Career Development</span></a>, href: https://ics.uci.edu/academics/career-development/
+link: <a class="primary__action primary__action--depth-2" href="https://ics.uci.edu/student-experience/clubs-organizations/" id="menu-item-6955"><span class="c-text-btn-inner--black">Clubs &amp; Organizations</span></a>, href: https://ics.uci.edu/student-experience/clubs-organizations/
+link: <a class="primary__action primary__action--depth-2" href="https://ics.uci.edu/student-experience/entrepreneurship-student-experience/" id="menu-item-6954"><span class="c-text-btn-inner--black">Entrepreneurship</span></a>, href: https://ics.uci.edu/student-experience/entrepreneurship-student-experience/
+link: <a class="primary__action primary__action--depth-2" href="https://ics.uci.edu/student-experience/undergraduate-research/" id="menu-item-7049"><span class="c-text-btn-inner--black">Undergraduate Research</span></a>, href: https://ics.uci.edu/student-experience/undergraduate-research/
+link: <a class="primary__action primary__action--depth-2" href="https://tutoring.ics.uci.edu/" id="menu-item-20539"><span class="c-text-btn-inner--black">ICS Tutoring Hub</span></a>, href: https://tutoring.ics.uci.edu/
+link: <a class="primary__action primary__action--depth-2" href="https://ics.uci.edu/academics/campus-resources/" id="menu-item-17135"><span class="c-text-btn-inner--black">Campus Resources</span></a>, href: https://ics.uci.edu/academics/campus-resources/
+link: <a class="mim__cta c-text-btn" href="https://ics.uci.edu/computing-research/">
+<span class="c-btn__text">Explore Our Research</span>
+</a>, href: https://ics.uci.edu/computing-research/
+link: <a class="primary__action primary__action--depth-1 primary__action--has-children" href="https://ics.uci.edu/computing-research/" id="menu-item-6505"><span class="c-text-btn-inner--black">Research at ICS</span></a>, href: https://ics.uci.edu/computing-research/
+link: <a class="primary__action primary__action--depth-2" href="/research-areas/" id="menu-item-18513"><span class="c-text-btn-inner--black">Research Areas</span></a>, href: /research-areas/
+link: <a class="primary__action primary__action--depth-1 primary__action--has-children" href="https://ics.uci.edu/departments/" id="menu-item-7509"><span class="c-text-btn-inner--black">Departments</span></a>, href: https://ics.uci.edu/departments/
+link: <a class="primary__action primary__action--depth-2" href="https://www.cs.uci.edu/" id="menu-item-6545" target="_blank"><span class="c-text-btn-inner--black">Computer Science</span></a>, href: https://www.cs.uci.edu/
+link: <a class="primary__action primary__action--depth-2" href="https://www.informatics.uci.edu/" id="menu-item-6546" target="_blank"><span class="c-text-btn-inner--black">Informatics</span></a>, href: https://www.informatics.uci.edu/
+link: <a class="primary__action primary__action--depth-2" href="https://www.stat.uci.edu/" id="menu-item-6547" target="_blank"><span class="c-text-btn-inner--black">Statistics</span></a>, href: https://www.stat.uci.edu/
+link: <a class="primary__action primary__action--depth-1" href="https://ics.uci.edu/people/" id="menu-item-6548"><span class="c-text-btn-inner--black">People</span></a>, href: https://ics.uci.edu/people/
+link: <a class="primary__action primary__action--depth-1 primary__action--has-children" href="https://ics.uci.edu/computing-research/institutes-centers/" id="menu-item-7539"><span class="c-text-btn-inner--black">Institutes &amp; Centers</span></a>, href: https://ics.uci.edu/computing-research/institutes-centers/
+link: <a class="primary__action primary__action--depth-2" href="https://connectedlearning.uci.edu/" id="menu-item-6988" target="_blank"><span class="c-text-btn-inner--black">Connected Learning Lab</span></a>, href: https://connectedlearning.uci.edu/
+link: <a class="primary__action primary__action--depth-2" href="https://cpri.uci.edu/" id="menu-item-6989" target="_blank"><span class="c-text-btn-inner--black">Cybersecurity Policy &amp; Research</span></a>, href: https://cpri.uci.edu/
+link: <a class="primary__action primary__action--depth-2" href="https://datascience.uci.edu/" id="menu-item-7549" target="_blank"><span class="c-text-btn-inner--black">Data Science</span></a>, href: https://datascience.uci.edu/
+link: <a class="primary__action primary__action--depth-2" href="https://futurehealth.ics.uci.edu/" id="menu-item-6990" target="_blank"><span class="c-text-btn-inner--black">Future Health</span></a>, href: https://futurehealth.ics.uci.edu/
+link: <a class="primary__action primary__action--depth-2" href="http://www.igb.uci.edu/" id="menu-item-6992" target="_blank"><span class="c-text-btn-inner--black">Genomics &amp; Bioinformatics</span></a>, href: http://www.igb.uci.edu/
+link: <a class="primary__action primary__action--depth-2" href="https://hpi.ics.uci.edu/" id="menu-item-6991" target="_blank"><span class="c-text-btn-inner--black">HPI Machine Learning &amp; Data Science</span></a>, href: https://hpi.ics.uci.edu/
+link: <a class="primary__action primary__action--depth-2" href="https://cml.ics.uci.edu/" id="menu-item-6987" target="_blank"><span class="c-text-btn-inner--black">Machine Learning &amp; Intelligent Systems</span></a>, href: https://cml.ics.uci.edu/
+link: <a class="primary__action primary__action--depth-2" href="https://create.ics.uci.edu/" id="menu-item-7954" target="_blank"><span class="c-text-btn-inner--black">Responsible, Ethical &amp; Accessible Tech</span></a>, href: https://create.ics.uci.edu/
+link: <a class="primary__action primary__action--depth-2" href="http://isr.uci.edu/" id="menu-item-6993" target="_blank"><span class="c-text-btn-inner--black">Software Research</span></a>, href: http://isr.uci.edu/
+link: <a class="primary__action primary__action--depth-1 primary__action--has-children" href="https://ics.uci.edu/academics/impact/" id="menu-item-7409"><span class="c-text-btn-inner--black">Impact</span></a>, href: https://ics.uci.edu/academics/impact/
+link: <a class="primary__action primary__action--depth-2" href="https://ics.uci.edu/academics/impact/faculty-awards-honors/" id="menu-item-17712"><span class="c-text-btn-inner--black">Faculty Awards &amp; Honors</span></a>, href: https://ics.uci.edu/academics/impact/faculty-awards-honors/
+link: <a class="primary__action primary__action--depth-2" href="https://ics.uci.edu/academics/impact/student-awards-honors/" id="menu-item-17711"><span class="c-text-btn-inner--black">Student Awards &amp; Honors</span></a>, href: https://ics.uci.edu/academics/impact/student-awards-honors/
+link: <a class="primary__action primary__action--depth-2" href="https://ics.uci.edu/academics/impact/academic-placements-of-alumni/" id="menu-item-17713"><span class="c-text-btn-inner--black">Placements in Academia</span></a>, href: https://ics.uci.edu/academics/impact/academic-placements-of-alumni/
+link: <a class="primary__action primary__action--depth-2" href="https://ics.uci.edu/academics/impact/technology-transfer/" id="menu-item-17714"><span class="c-text-btn-inner--black">Technologies &amp; Startups</span></a>, href: https://ics.uci.edu/academics/impact/technology-transfer/
+link: <a class="mim__cta c-text-btn" href="https://ics.uci.edu/happening/news/">
+<span class="c-btn__text">See What's Happening</span>
+</a>, href: https://ics.uci.edu/happening/news/
+link: <a class="primary__action primary__action--depth-1 primary__action--has-children" href="https://ics.uci.edu/happening/news/" id="menu-item-8386"><span class="c-text-btn-inner--black">Recent News</span></a>, href: https://ics.uci.edu/happening/news/
+link: <a class="primary__action primary__action--depth-2" href="https://ics.uci.edu/happening/news/?filter%5Baffiliation_posts%5D=1988" id="menu-item-19181"><span class="c-text-btn-inner--black">Faculty Spotlights</span></a>, href: https://ics.uci.edu/happening/news/?filter%5Baffiliation_posts%5D=1988
+link: <a class="primary__action primary__action--depth-2" href="https://ics.uci.edu/happening/news/?filter%5Baffiliation_posts%5D=1989" id="menu-item-19182"><span class="c-text-btn-inner--black">Student Spotlights</span></a>, href: https://ics.uci.edu/happening/news/?filter%5Baffiliation_posts%5D=1989
+link: <a class="primary__action primary__action--depth-2" href="https://ics.uci.edu/happening/news/?filter%5Bresearch_areas_ics%5D=1994" id="menu-item-19184"><span class="c-text-btn-inner--black">Research Spotlights</span></a>, href: https://ics.uci.edu/happening/news/?filter%5Bresearch_areas_ics%5D=1994
+link: <a class="primary__action primary__action--depth-2" href="https://ics.uci.edu/happening/news/?filter%5Baffiliation_posts%5D=1990" id="menu-item-19185"><span class="c-text-btn-inner--black">Alumni Spotlights</span></a>, href: https://ics.uci.edu/happening/news/?filter%5Baffiliation_posts%5D=1990
+link: <a class="primary__action primary__action--depth-1" href="https://ics.uci.edu/upcoming-events/" id="menu-item-8559"><span class="c-text-btn-inner--black">Upcoming Events</span></a>, href: https://ics.uci.edu/upcoming-events/
+link: <a class="primary__action primary__action--depth-1" href="https://ics.uci.edu/events/" id="menu-item-6963"><span class="c-text-btn-inner--black">ICS Calendar</span></a>, href: https://ics.uci.edu/events/
+link: <a class="primary__action primary__action--depth-2" href="https://ics.uci.edu/seminar-series/distinguished-lectures/" id="menu-item-13938"><span class="c-text-btn-inner--black">ICS Distinguished Lecturer</span></a>, href: https://ics.uci.edu/seminar-series/distinguished-lectures/
+link: <a class="primary__action primary__action--depth-2" href="https://www.cs.uci.edu/events/seminar-series/" id="menu-item-8002" target="_blank"><span class="c-text-btn-inner--black">Computer Science</span></a>, href: https://www.cs.uci.edu/events/seminar-series/
+link: <a class="primary__action primary__action--depth-2" href="https://www.informatics.uci.edu/explore/department-seminars/" id="menu-item-8000" target="_blank"><span class="c-text-btn-inner--black">Informatics</span></a>, href: https://www.informatics.uci.edu/explore/department-seminars/
+link: <a class="primary__action primary__action--depth-2" href="https://www.stat.uci.edu/seminar-series/" id="menu-item-8001" target="_blank"><span class="c-text-btn-inner--black">Statistics</span></a>, href: https://www.stat.uci.edu/seminar-series/
+link: <a class="primary__action primary__action--depth-2" href="https://connectedlearning.uci.edu/media/" id="menu-item-8772" target="_blank"><span class="c-text-btn-inner--black">Connected Learning Lab</span></a>, href: https://connectedlearning.uci.edu/media/
+link: <a class="primary__action primary__action--depth-2" href="https://cpri.uci.edu/category/events/" id="menu-item-8773" target="_blank"><span class="c-text-btn-inner--black">Cybersecurity Policy &amp; Research</span></a>, href: https://cpri.uci.edu/category/events/
+link: <a class="primary__action primary__action--depth-2" href="https://datascience.uci.edu/" id="menu-item-8774" target="_blank"><span class="c-text-btn-inner--black">Data Science</span></a>, href: https://datascience.uci.edu/
+link: <a class="primary__action primary__action--depth-2" href="https://futurehealth.uci.edu/2020-distinguished-lecture-series/" id="menu-item-8506" target="_blank"><span class="c-text-btn-inner--black">Future Health</span></a>, href: https://futurehealth.uci.edu/2020-distinguished-lecture-series/
+link: <a class="primary__action primary__action--depth-2" href="https://www.igb.uci.edu/seminars/" id="menu-item-8507" target="_blank"><span class="c-text-btn-inner--black">Genomics &amp; Bioinformatics</span></a>, href: https://www.igb.uci.edu/seminars/
+link: <a class="primary__action primary__action--depth-2" href="https://hpi.ics.uci.edu/hpiuci-2022-grand-opening-event/" id="menu-item-8776" target="_blank"><span class="c-text-btn-inner--black">HPI Machine Learning &amp; Data Science</span></a>, href: https://hpi.ics.uci.edu/hpiuci-2022-grand-opening-event/
+link: <a class="primary__action primary__action--depth-2" href="https://cml.ics.uci.edu/aiml/" id="menu-item-8508" target="_blank"><span class="c-text-btn-inner--black">Machine Learning &amp; Intelligent Systems</span></a>, href: https://cml.ics.uci.edu/aiml/
+link: <a class="primary__action primary__action--depth-2" href="https://create.ics.uci.edu/events/" id="menu-item-8777" target="_blank"><span class="c-text-btn-inner--black">Responsible, Ethical &amp; Accessible Tech</span></a>, href: https://create.ics.uci.edu/events/
+link: <a class="primary__action primary__action--depth-2" href="http://isr.uci.edu/isr-events/upcoming" id="menu-item-8775" target="_blank"><span class="c-text-btn-inner--black">Software Research</span></a>, href: http://isr.uci.edu/isr-events/upcoming
+link: <a class="primary__action primary__action--depth-1" href="https://ics.uci.edu/happening/annual-reports-brochures/" id="menu-item-6964"><span class="c-text-btn-inner--black">Reports &amp; Publications</span></a>, href: https://ics.uci.edu/happening/annual-reports-brochures/
+link: <a class="mim__cta c-text-btn" href="/alumni/corporate-engagement/">
+<span class="c-btn__text">Get Involved</span>
+</a>, href: /alumni/corporate-engagement/
+link: <a class="primary__action primary__action--depth-1 primary__action--has-children" href="https://ics.uci.edu/alumni/" id="menu-item-6417"><span class="c-text-btn-inner--black">Alumni</span></a>, href: https://ics.uci.edu/alumni/
+link: <a class="primary__action primary__action--depth-2" href="https://www.ics.uci.edu/events/list/?tribe__ecp_custom_49%5B0%5D=Alumni" id="menu-item-17843"><span class="c-text-btn-inner--black">Events</span></a>, href: https://www.ics.uci.edu/events/list/?tribe__ecp_custom_49%5B0%5D=Alumni
+link: <a class="primary__action primary__action--depth-2" href="https://ics.uci.edu/alumni/hall-of-fame/" id="menu-item-6831"><span class="c-text-btn-inner--black">Hall of Fame</span></a>, href: https://ics.uci.edu/alumni/hall-of-fame/
+link: <a class="primary__action primary__action--depth-1 primary__action--has-children" href="https://ics.uci.edu/alumni/corporate-engagement/" id="menu-item-6978"><span class="c-text-btn-inner--black">Corporate &amp; Community Engagement</span></a>, href: https://ics.uci.edu/alumni/corporate-engagement/
+link: <a class="primary__action primary__action--depth-2" href="https://ics.uci.edu/alumni/corporate-engagement/capstone-projects-corporate-engagement/" id="menu-item-6981"><span class="c-text-btn-inner--black">Capstone Projects</span></a>, href: https://ics.uci.edu/alumni/corporate-engagement/capstone-projects-corporate-engagement/
+link: <a class="primary__action primary__action--depth-2" href="https://ics.uci.edu/alumni/corporate-engagement/research-partnerships-corporate-engagement/" id="menu-item-6980"><span class="c-text-btn-inner--black">Research Partnerships</span></a>, href: https://ics.uci.edu/alumni/corporate-engagement/research-partnerships-corporate-engagement/
+link: <a class="primary__action primary__action--depth-2" href="https://ics.uci.edu/alumni/corporate-engagement/student-recruitment-corporate-engagement/" id="menu-item-6982"><span class="c-text-btn-inner--black">Student Recruitment</span></a>, href: https://ics.uci.edu/alumni/corporate-engagement/student-recruitment-corporate-engagement/
+link: <a class="primary__action primary__action--depth-2" href="https://ics.uci.edu/alumni/corporate-engagement/corporate-partners/" id="menu-item-8919"><span class="c-text-btn-inner--black">Corporate Partners</span></a>, href: https://ics.uci.edu/alumni/corporate-engagement/corporate-partners/
+link: <a class="primary__action primary__action--depth-2" href="https://ics.uci.edu/alumni/industry-advisory-board/" id="menu-item-14787"><span class="c-text-btn-inner--black">Industry Advisory Board</span></a>, href: https://ics.uci.edu/alumni/industry-advisory-board/
+link: <a class="primary__action primary__action--depth-1" href="https://ics.uci.edu/alumni/ics-advisory-board/" id="menu-item-6977"><span class="c-text-btn-inner--black">Leadership Council</span></a>, href: https://ics.uci.edu/alumni/ics-advisory-board/
+link: <a class="primary__action primary__action--depth-1" href="https://ics.uci.edu/make-a-gift/" id="menu-item-6420"><span class="c-text-btn-inner--black">Make a Gift</span></a>, href: https://ics.uci.edu/make-a-gift/
+link: <a class="secondary__action secondary__action--depth-0" href="https://ics.uci.edu/contact-us/"><span class="c-text-btn-inner--black">Contact Us</span></a>, href: https://ics.uci.edu/contact-us/
+link: <a class="secondary__action secondary__action--depth-0" href="https://ics.uci.edu/follow-us/"><span class="c-text-btn-inner--black">Follow Us</span></a>, href: https://ics.uci.edu/follow-us/
+link: <a class="secondary__action secondary__action--depth-0" href="https://ics.uci.edu/make-a-gift/"><span class="c-text-btn-inner--black">Support Us</span></a>, href: https://ics.uci.edu/make-a-gift/
+link: <a id="a11y-skip-link-content" tabindex="-1"></a>, href: None
+link: <a aria-current="page" class="c-breadcrumb__action c-text-btn" href="https://ics.uci.edu/" tabindex="-1" title="Home">
+<span class="c-btn__text">Home</span>
+</a>, href: https://ics.uci.edu/
+link: <a class="s-cta c-btn c-btn--white" href="https://ics.uci.edu/2024/09/16/virtual-disaster-cities-to-provide-real-life-resilience/" target="_self">
+<span class="c-btn__text">Read More</span>
+</a>, href: https://ics.uci.edu/2024/09/16/virtual-disaster-cities-to-provide-real-life-resilience/
+link: <a aria-label="Learn more about our degrees" class="card-grid__link" href="https://ics.uci.edu/academics/undergraduate-programs/">
+<div class="card-grid__image-container">
+<div aria-label="Graduated students celebrating" class="card-grid__image lazyload" data-bgset="https://ics.uci.edu/wp-content/uploads/2022/10/commencement_eng_socsci_061419_1526_sz-696x464.jpg 696w 464h, 
+https://ics.uci.edu/wp-content/uploads/2022/10/commencement_eng_socsci_061419_1526_sz-320x213.jpg 320w 213h, 
+https://ics.uci.edu/wp-content/uploads/2022/10/commencement_eng_socsci_061419_1526_sz-448x300.jpg 448w 300h, 
+https://ics.uci.edu/wp-content/uploads/2022/10/commencement_eng_socsci_061419_1526_sz-1044x696.jpg 1044w 696h" data-expand="200" data-sizes="(min-width: 1260px) 1260px, 100vw" role="img" style="background-image:url('https://ics.uci.edu/wp-content/themes/core/img/theme/shims/3x2.png');">
+</div>
+</div>
+<div class="c-card__content card-grid__content">
+<h3 class="c-card__title card-grid__title h3">
+
+	Undergraduate Programs
+
+</h3>
+<div class="c-card__desc t-content card-grid__desc">
+<p>With an emphasis on fundamentals and experiential and lifelong learning, our undergraduate majors and minors form an excellent foundation for professional life or graduate school.</p>
+</div>
+<p aria-hidden="true" class="card-grid__button">
+Learn more about our degrees
+</p>
+</div>
+</a>, href: https://ics.uci.edu/academics/undergraduate-programs/
+link: <a aria-label="Explore our graduate programs" class="card-grid__link" href="https://ics.uci.edu/academics/graduate-programs/">
+<div class="card-grid__image-container">
+<div aria-label="PhD hooding 2023" class="card-grid__image lazyload" data-bgset="https://ics.uci.edu/wp-content/uploads/2023/09/gradhooding20231-696x464.jpg 696w 464h, 
+https://ics.uci.edu/wp-content/uploads/2023/09/gradhooding20231-320x213.jpg 320w 213h, 
+https://ics.uci.edu/wp-content/uploads/2023/09/gradhooding20231-448x300.jpg 448w 300h, 
+https://ics.uci.edu/wp-content/uploads/2023/09/gradhooding20231-1044x696.jpg 1044w 696h" data-expand="200" data-sizes="(min-width: 1260px) 1260px, 100vw" role="img" style="background-image:url('https://ics.uci.edu/wp-content/themes/core/img/theme/shims/3x2.png');">
+</div>
+</div>
+<div class="c-card__content card-grid__content">
+<h3 class="c-card__title card-grid__title h3">
+
+	Graduate Programs
+
+</h3>
+<div class="c-card__desc t-content card-grid__desc">
+<p>Join a community of more than 1,000 doctoral and master’s students who are driven by curiosity and a passion to make a positive impact to our world through advances in computing. </p>
+</div>
+<p aria-hidden="true" class="card-grid__button">
+Explore our graduate programs
+</p>
+</div>
+</a>, href: https://ics.uci.edu/academics/graduate-programs/
+link: <a aria-label="View our open faculty positions" class="card-grid__link" href="https://ics.uci.edu/academic-recruitment/">
+<div class="card-grid__image-container">
+<div aria-label="Recruiting" class="card-grid__image lazyload" data-bgset="https://ics.uci.edu/wp-content/uploads/2020/09/recruiting-img-696x464.jpg 696w 464h, 
+https://ics.uci.edu/wp-content/uploads/2020/09/recruiting-img-320x213.jpg 320w 213h, 
+https://ics.uci.edu/wp-content/uploads/2020/09/recruiting-img-448x300.jpg 448w 300h, 
+https://ics.uci.edu/wp-content/uploads/2020/09/recruiting-img-1044x696.jpg 1044w 696h" data-expand="200" data-sizes="(min-width: 1260px) 1260px, 100vw" role="img" style="background-image:url('https://ics.uci.edu/wp-content/themes/core/img/theme/shims/3x2.png');">
+</div>
+</div>
+<div class="c-card__content card-grid__content">
+<h3 class="c-card__title card-grid__title h3">
+
+	Faculty Recruiting
+
+</h3>
+<div class="c-card__desc t-content card-grid__desc">
+<p>ICS is recruiting for multiple tenure-track faculty positions. We are seeking candidates, individuals or in groups, with a passion for research, teaching, and real-world impact.</p>
+</div>
+<p aria-hidden="true" class="card-grid__button">
+View our open faculty positions
+</p>
+</div>
+</a>, href: https://ics.uci.edu/academic-recruitment/
+link: <a class="item__link" href="https://ics.uci.edu/2024/10/11/ics-summer-academy-2024-continued-growth-and-success/">
+<span class="c-btn__text">View ICS Summer Academy 2024: Continued Growth and Success</span>
+</a>, href: https://ics.uci.edu/2024/10/11/ics-summer-academy-2024-continued-growth-and-success/
+link: <a class="c-text-btn" href="https://ics.uci.edu/category/article/">
+<span class="c-btn__text">News</span>
+</a>, href: https://ics.uci.edu/category/article/
+link: <a class="item__link" href="https://ics.uci.edu/2024/10/11/pioneering-causal-ai-for-precision-medicine-and-beyond/">
+<span class="c-btn__text">View Pioneering Causal AI for Precision Medicine and Beyond</span>
+</a>, href: https://ics.uci.edu/2024/10/11/pioneering-causal-ai-for-precision-medicine-and-beyond/
+link: <a class="c-text-btn" href="https://ics.uci.edu/category/article/">
+<span class="c-btn__text">News</span>
+</a>, href: https://ics.uci.edu/category/article/
+link: <a class="item__link" href="https://ics.uci.edu/2024/10/08/health-informatics-ph-d-student-lidia-flores-a-rising-latina-in-tech/">
+<span class="c-btn__text">View Health Informatics Ph.D. Student Lidia Flores: A Rising Latina in Tech</span>
+</a>, href: https://ics.uci.edu/2024/10/08/health-informatics-ph-d-student-lidia-flores-a-rising-latina-in-tech/
+link: <a class="c-text-btn" href="https://ics.uci.edu/category/academics/informatics/">
+<span class="c-btn__text">Informatics</span>
+</a>, href: https://ics.uci.edu/category/academics/informatics/
+link: <a class="item__link" href="https://ics.uci.edu/2024/10/03/a-warm-ics-welcome/">
+<span class="c-btn__text">View A Warm ICS Welcome</span>
+</a>, href: https://ics.uci.edu/2024/10/03/a-warm-ics-welcome/
+link: <a class="c-text-btn" href="https://ics.uci.edu/category/article/">
+<span class="c-btn__text">News</span>
+</a>, href: https://ics.uci.edu/category/article/
+link: <a class="item__link" href="https://ics.uci.edu/2024/10/03/learning-tools-ai-and-the-future-of-writing-instruction/">
+<span class="c-btn__text">View Learning Tools – AI and the Future of Writing Instruction</span>
+</a>, href: https://ics.uci.edu/2024/10/03/learning-tools-ai-and-the-future-of-writing-instruction/
+link: <a class="c-text-btn" href="https://ics.uci.edu/category/article/highlight/">
+<span class="c-btn__text">Highlight</span>
+</a>, href: https://ics.uci.edu/category/article/highlight/
+link: <a class="item__link" href="https://ics.uci.edu/2024/09/23/storyai-app-engages-students-in-learning/">
+<span class="c-btn__text">View StoryAI App Engages Students in Learning</span>
+</a>, href: https://ics.uci.edu/2024/09/23/storyai-app-engages-students-in-learning/
+link: <a class="c-text-btn" href="https://ics.uci.edu/category/article/">
+<span class="c-btn__text">News</span>
+</a>, href: https://ics.uci.edu/category/article/
+link: <a class="s-cta c-text-btn" href="/happening/news/">
+<span class="c-btn__text">Read more news</span>
+</a>, href: /happening/news/
+link: <a class="c-text-btn c-text-btn--white" href="https://connectedlearning.uci.edu/" target="_self">
+<span class="c-btn__text">Explore CLL</span>
+</a>, href: https://connectedlearning.uci.edu/
+link: <a class="c-text-btn c-text-btn--white" href="https://cpri.uci.edu/" target="_self">
+<span class="c-btn__text">Explore CPRI</span>
+</a>, href: https://cpri.uci.edu/
+link: <a class="c-text-btn c-text-btn--white" href="https://create.ics.uci.edu/" target="_self">
+<span class="c-btn__text">Explore CREATE</span>
+</a>, href: https://create.ics.uci.edu/
+link: <a class="c-text-btn c-text-btn--white" href="https://hpi.ics.uci.edu/" target="_self">
+<span class="c-btn__text">Explore HPI</span>
+</a>, href: https://hpi.ics.uci.edu/
+link: <a aria-label="Master of Human-Computer Interaction &amp; Design 10/15" class="events-panel__link" href="https://ics.uci.edu/event/master-of-human-computer-interaction-design-1015/"></a>, href: https://ics.uci.edu/event/master-of-human-computer-interaction-design-1015/
+link: <a aria-label="Decoding Game: On Minimax Optimality of Heuristic Text Generation Strategies" class="events-panel__link" href="https://ics.uci.edu/event/decoding-game-on-minimax-optimality-of-heuristic-text-generation-strategies/"></a>, href: https://ics.uci.edu/event/decoding-game-on-minimax-optimality-of-heuristic-text-generation-strategies/
+link: <a class="seminar_series_link c-text-btn" href="//stat.uci.edu/seminar-series/" target="_blank"><span class="c-btn__text">Statistics Seminar Series</span></a>, href: //stat.uci.edu/seminar-series/
+link: <a aria-label="Vector Search and Databases" class="events-panel__link" href="https://ics.uci.edu/event/vector-search-and-databases/"></a>, href: https://ics.uci.edu/event/vector-search-and-databases/
+link: <a class="seminar_series_link c-text-btn" href="//cs.uci.edu/events/seminar-series/" target="_blank"><span class="c-btn__text">CS Seminar Series</span></a>, href: //cs.uci.edu/events/seminar-series/
+link: <a aria-label="(Virtual) Culturally-conscious Workforce Development: Community-based Approaches to Supporting Microbusinesses" class="events-panel__link" href="https://ics.uci.edu/event/culturally-conscious-workforce-development-community-based-approaches-to-supporting-microbusinesses/"></a>, href: https://ics.uci.edu/event/culturally-conscious-workforce-development-community-based-approaches-to-supporting-microbusinesses/
+link: <a class="seminar_series_link c-text-btn" href="//informatics.uci.edu/explore/department-seminars/" target="_blank"><span class="c-btn__text">Informatics Seminar Series</span></a>, href: //informatics.uci.edu/explore/department-seminars/
+link: <a aria-label="Master of Computer Science – Information Session" class="events-panel__link" href="https://ics.uci.edu/event/master-of-computer-science-information-session-1021/"></a>, href: https://ics.uci.edu/event/master-of-computer-science-information-session-1021/
+link: <a aria-label="Master of Software Engineering – Information Session" class="events-panel__link" href="https://ics.uci.edu/event/master-of-software-engineering-information-session-1022/"></a>, href: https://ics.uci.edu/event/master-of-software-engineering-information-session-1022/
+link: <a class="s-cta c-text-btn" href="/events/">
+<span class="c-btn__text">See all events</span>
+</a>, href: /events/
+link: <a class="" href="https://ics.uci.edu/" target="_self" title="">
+<img alt="logo-white" class="lazyload" data-expand="200" data-parent-fit="width" data-src="https://ics.uci.edu/wp-content/uploads/2020/07/logo-white.svg" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="/>
+</a>, href: https://ics.uci.edu/
+link: <a href="https://goo.gl/maps/xhK6rgUsdX2Xi7Cm7" target="_blank">6210 Donald Bren Hall<br>
+Irvine, CA 92697-3425</br></a>, href: https://goo.gl/maps/xhK6rgUsdX2Xi7Cm7
+link: <a href="tel:1-949-824-7427">(949) 824-7427</a>, href: tel:1-949-824-7427
+link: <a class="social-follow__anchor" href="http://facebook.com/UCIBrenICS" rel="me noopener" target="_blank" title="Like us on Facebook">
+<i class="icon icon-facebook"></i>
+<span class="a11y-visual-hide">Like us on Facebook</span>
+</a>, href: http://facebook.com/UCIBrenICS
+link: <a class="social-follow__anchor" href="http://twitter.com/UCIbrenICS" rel="me noopener" target="_blank" title="Follow us on Twitter">
+<i class="icon icon-twitter"></i>
+<span class="a11y-visual-hide">Follow us on Twitter</span>
+</a>, href: http://twitter.com/UCIbrenICS
+link: <a class="social-follow__anchor" href="http://youtube.com/UCIBrenICS" rel="me noopener" target="_blank" title="Follow us on YouTube">
+<i class="icon icon-youtube"></i>
+<span class="a11y-visual-hide">Follow us on YouTube</span>
+</a>, href: http://youtube.com/UCIBrenICS
+link: <a class="social-follow__anchor" href="https://www.linkedin.com/company/uc-irvine-information-and-computer-sciences" rel="me noopener" target="_blank" title="Add us on LinkedIn">
+<i class="icon icon-linkedin"></i>
+<span class="a11y-visual-hide">Add us on LinkedIn</span>
+</a>, href: https://www.linkedin.com/company/uc-irvine-information-and-computer-sciences
+link: <a class="social-follow__anchor" href="http://instagram.com/ucibrenics/" rel="me noopener" target="_blank" title="Follow us on Instagram">
+<i class="icon icon-instagram"></i>
+<span class="a11y-visual-hide">Follow us on Instagram</span>
+</a>, href: http://instagram.com/ucibrenics/
+link: <a class="footer__action footer__action--depth-0" href="/people/">Directory</a>, href: /people/
+link: <a class="footer__action footer__action--depth-0" href="https://ics.uci.edu/faculty-staff-resources/">Faculty &amp; Staff Resources</a>, href: https://ics.uci.edu/faculty-staff-resources/
+link: <a class="footer__action footer__action--depth-0" href="https://ics.uci.edu/faculty-staff-positions/">Faculty &amp; Staff Positions</a>, href: https://ics.uci.edu/faculty-staff-positions/
+link: <a class="footer__action footer__action--depth-0" href="https://em.uci.edu/">Emergency Preparedness</a>, href: https://em.uci.edu/
+link: <a class="footer__action footer__action--depth-0" href="/accessibility-statement/">Accessibility</a>, href: /accessibility-statement/
+link: <a class="footer__action footer__action--depth-0" href="https://uci.edu/privacy/index.php">Privacy Policy</a>, href: https://uci.edu/privacy/index.php
+link: <a class="footer__action footer__action--depth-0" href="https://www.uci.edu">UCI Home</a>, href: https://www.uci.edu
+link: <a class="footer__action footer__action--depth-0" href="https://directory.uci.edu/">UCI Directory</a>, href: https://directory.uci.edu/
+link: <a class="footer__action footer__action--depth-0" href="https://uci.edu/visit/maps.php">Campus Maps</a>, href: https://uci.edu/visit/maps.php
+link: <a accesskey="s" class="pojo-skip-link pojo-skip-content" href="#content" id="pojo-a11y-skip-content" tabindex="1">Skip to content</a>, href: #content
+link: <a class="pojo-a11y-toolbar-link pojo-a11y-toolbar-toggle-link" href="javascript:void(0);" role="button" title="Accessibility Tools">
+<span class="pojo-sr-only sr-only">Open toolbar</span>
+<svg fill="currentColor" viewbox="0 0 100 100" width="1em" xmlns="http://www.w3.org/2000/svg">
+<title>Accessibility Tools</title>
+<path d="M50 8.1c23.2 0 41.9 18.8 41.9 41.9 0 23.2-18.8 41.9-41.9 41.9C26.8 91.9 8.1 73.2 8.1 50S26.8 8.1 50 8.1M50 0C22.4 0 0 22.4 0 50s22.4 50 50 50 50-22.4 50-50S77.6 0 50 0zm0 11.3c-21.4 0-38.7 17.3-38.7 38.7S28.6 88.7 50 88.7 88.7 71.4 88.7 50 71.4 11.3 50 11.3zm0 8.9c4 0 7.3 3.2 7.3 7.3S54 34.7 50 34.7s-7.3-3.2-7.3-7.3 3.3-7.2 7.3-7.2zm23.7 19.7c-5.8 1.4-11.2 2.6-16.6 3.2.2 20.4 2.5 24.8 5 31.4.7 1.9-.2 4-2.1 4.7-1.9.7-4-.2-4.7-2.1-1.8-4.5-3.4-8.2-4.5-15.8h-2c-1 7.6-2.7 11.3-4.5 15.8-.7 1.9-2.8 2.8-4.7 2.1-1.9-.7-2.8-2.8-2.1-4.7 2.6-6.6 4.9-11 5-31.4-5.4-.6-10.8-1.8-16.6-3.2-1.7-.4-2.8-2.1-2.4-3.9.4-1.7 2.1-2.8 3.9-2.4 19.5 4.6 25.1 4.6 44.5 0 1.7-.4 3.5.7 3.9 2.4.7 1.8-.3 3.5-2.1 3.9z"></path> </svg>
+</a>, href: javascript:void(0);
+link: <a class="pojo-a11y-toolbar-link pojo-a11y-btn-resize-font pojo-a11y-btn-resize-plus" data-action="resize-plus" data-action-group="resize" href="#" role="button" tabindex="-1">
+<span class="pojo-a11y-toolbar-icon"><svg version="1.1" viewbox="0 0 448 448" width="1em" xmlns="http://www.w3.org/2000/svg"><title>Increase Text</title><path d="M256 200v16c0 4.25-3.75 8-8 8h-56v56c0 4.25-3.75 8-8 8h-16c-4.25 0-8-3.75-8-8v-56h-56c-4.25 0-8-3.75-8-8v-16c0-4.25 3.75-8 8-8h56v-56c0-4.25 3.75-8 8-8h16c4.25 0 8 3.75 8 8v56h56c4.25 0 8 3.75 8 8zM288 208c0-61.75-50.25-112-112-112s-112 50.25-112 112 50.25 112 112 112 112-50.25 112-112zM416 416c0 17.75-14.25 32-32 32-8.5 0-16.75-3.5-22.5-9.5l-85.75-85.5c-29.25 20.25-64.25 31-99.75 31-97.25 0-176-78.75-176-176s78.75-176 176-176 176 78.75 176 176c0 35.5-10.75 70.5-31 99.75l85.75 85.75c5.75 5.75 9.25 14 9.25 22.5z" fill="currentColor"></path></svg></span><span class="pojo-a11y-toolbar-text">Increase Text</span> </a>, href: #
+link: <a class="pojo-a11y-toolbar-link pojo-a11y-btn-resize-font pojo-a11y-btn-resize-minus" data-action="resize-minus" data-action-group="resize" href="#" role="button" tabindex="-1">
+<span class="pojo-a11y-toolbar-icon"><svg version="1.1" viewbox="0 0 448 448" width="1em" xmlns="http://www.w3.org/2000/svg"><title>Decrease Text</title><path d="M256 200v16c0 4.25-3.75 8-8 8h-144c-4.25 0-8-3.75-8-8v-16c0-4.25 3.75-8 8-8h144c4.25 0 8 3.75 8 8zM288 208c0-61.75-50.25-112-112-112s-112 50.25-112 112 50.25 112 112 112 112-50.25 112-112zM416 416c0 17.75-14.25 32-32 32-8.5 0-16.75-3.5-22.5-9.5l-85.75-85.5c-29.25 20.25-64.25 31-99.75 31-97.25 0-176-78.75-176-176s78.75-176 176-176 176 78.75 176 176c0 35.5-10.75 70.5-31 99.75l85.75 85.75c5.75 5.75 9.25 14 9.25 22.5z" fill="currentColor"></path></svg></span><span class="pojo-a11y-toolbar-text">Decrease Text</span> </a>, href: #
+link: <a class="pojo-a11y-toolbar-link pojo-a11y-btn-background-group pojo-a11y-btn-grayscale" data-action="grayscale" data-action-group="schema" href="#" role="button" tabindex="-1">
+<span class="pojo-a11y-toolbar-icon"><svg version="1.1" viewbox="0 0 448 448" width="1em" xmlns="http://www.w3.org/2000/svg"><title>Grayscale</title><path d="M15.75 384h-15.75v-352h15.75v352zM31.5 383.75h-8v-351.75h8v351.75zM55 383.75h-7.75v-351.75h7.75v351.75zM94.25 383.75h-7.75v-351.75h7.75v351.75zM133.5 383.75h-15.5v-351.75h15.5v351.75zM165 383.75h-7.75v-351.75h7.75v351.75zM180.75 383.75h-7.75v-351.75h7.75v351.75zM196.5 383.75h-7.75v-351.75h7.75v351.75zM235.75 383.75h-15.75v-351.75h15.75v351.75zM275 383.75h-15.75v-351.75h15.75v351.75zM306.5 383.75h-15.75v-351.75h15.75v351.75zM338 383.75h-15.75v-351.75h15.75v351.75zM361.5 383.75h-15.75v-351.75h15.75v351.75zM408.75 383.75h-23.5v-351.75h23.5v351.75zM424.5 383.75h-8v-351.75h8v351.75zM448 384h-15.75v-352h15.75v352z" fill="currentColor"></path></svg></span><span class="pojo-a11y-toolbar-text">Grayscale</span> </a>, href: #
+link: <a class="pojo-a11y-toolbar-link pojo-a11y-btn-background-group pojo-a11y-btn-high-contrast" data-action="high-contrast" data-action-group="schema" href="#" role="button" tabindex="-1">
+<span class="pojo-a11y-toolbar-icon"><svg version="1.1" viewbox="0 0 448 448" width="1em" xmlns="http://www.w3.org/2000/svg"><title>High Contrast</title><path d="M192 360v-272c-75 0-136 61-136 136s61 136 136 136zM384 224c0 106-86 192-192 192s-192-86-192-192 86-192 192-192 192 86 192 192z" fill="currentColor"></path></svg></span><span class="pojo-a11y-toolbar-text">High Contrast</span> </a>, href: #
+link: <a class="pojo-a11y-toolbar-link pojo-a11y-btn-background-group pojo-a11y-btn-negative-contrast" data-action="negative-contrast" data-action-group="schema" href="#" role="button" tabindex="-1">
+<span class="pojo-a11y-toolbar-icon"><svg version="1.1" viewbox="0 0 448 448" width="1em" xmlns="http://www.w3.org/2000/svg"><title>Negative Contrast</title><path d="M416 240c-23.75-36.75-56.25-68.25-95.25-88.25 10 17 15.25 36.5 15.25 56.25 0 61.75-50.25 112-112 112s-112-50.25-112-112c0-19.75 5.25-39.25 15.25-56.25-39 20-71.5 51.5-95.25 88.25 42.75 66 111.75 112 192 112s149.25-46 192-112zM236 144c0-6.5-5.5-12-12-12-41.75 0-76 34.25-76 76 0 6.5 5.5 12 12 12s12-5.5 12-12c0-28.5 23.5-52 52-52 6.5 0 12-5.5 12-12zM448 240c0 6.25-2 12-5 17.25-46 75.75-130.25 126.75-219 126.75s-173-51.25-219-126.75c-3-5.25-5-11-5-17.25s2-12 5-17.25c46-75.5 130.25-126.75 219-126.75s173 51.25 219 126.75c3 5.25 5 11 5 17.25z" fill="currentColor"></path></svg></span><span class="pojo-a11y-toolbar-text">Negative Contrast</span> </a>, href: #
+link: <a class="pojo-a11y-toolbar-link pojo-a11y-btn-background-group pojo-a11y-btn-light-background" data-action="light-background" data-action-group="schema" href="#" role="button" tabindex="-1">
+<span class="pojo-a11y-toolbar-icon"><svg version="1.1" viewbox="0 0 448 448" width="1em" xmlns="http://www.w3.org/2000/svg"><title>Light Background</title><path d="M184 144c0 4.25-3.75 8-8 8s-8-3.75-8-8c0-17.25-26.75-24-40-24-4.25 0-8-3.75-8-8s3.75-8 8-8c23.25 0 56 12.25 56 40zM224 144c0-50-50.75-80-96-80s-96 30-96 80c0 16 6.5 32.75 17 45 4.75 5.5 10.25 10.75 15.25 16.5 17.75 21.25 32.75 46.25 35.25 74.5h57c2.5-28.25 17.5-53.25 35.25-74.5 5-5.75 10.5-11 15.25-16.5 10.5-12.25 17-29 17-45zM256 144c0 25.75-8.5 48-25.75 67s-40 45.75-42 72.5c7.25 4.25 11.75 12.25 11.75 20.5 0 6-2.25 11.75-6.25 16 4 4.25 6.25 10 6.25 16 0 8.25-4.25 15.75-11.25 20.25 2 3.5 3.25 7.75 3.25 11.75 0 16.25-12.75 24-27.25 24-6.5 14.5-21 24-36.75 24s-30.25-9.5-36.75-24c-14.5 0-27.25-7.75-27.25-24 0-4 1.25-8.25 3.25-11.75-7-4.5-11.25-12-11.25-20.25 0-6 2.25-11.75 6.25-16-4-4.25-6.25-10-6.25-16 0-8.25 4.5-16.25 11.75-20.5-2-26.75-24.75-53.5-42-72.5s-25.75-41.25-25.75-67c0-68 64.75-112 128-112s128 44 128 112z" fill="currentColor"></path></svg></span><span class="pojo-a11y-toolbar-text">Light Background</span> </a>, href: #
+link: <a class="pojo-a11y-toolbar-link pojo-a11y-btn-links-underline" data-action="links-underline" data-action-group="toggle" href="#" role="button" tabindex="-1">
+<span class="pojo-a11y-toolbar-icon"><svg version="1.1" viewbox="0 0 448 448" width="1em" xmlns="http://www.w3.org/2000/svg"><title>Links Underline</title><path d="M364 304c0-6.5-2.5-12.5-7-17l-52-52c-4.5-4.5-10.75-7-17-7-7.25 0-13 2.75-18 8 8.25 8.25 18 15.25 18 28 0 13.25-10.75 24-24 24-12.75 0-19.75-9.75-28-18-5.25 5-8.25 10.75-8.25 18.25 0 6.25 2.5 12.5 7 17l51.5 51.75c4.5 4.5 10.75 6.75 17 6.75s12.5-2.25 17-6.5l36.75-36.5c4.5-4.5 7-10.5 7-16.75zM188.25 127.75c0-6.25-2.5-12.5-7-17l-51.5-51.75c-4.5-4.5-10.75-7-17-7s-12.5 2.5-17 6.75l-36.75 36.5c-4.5 4.5-7 10.5-7 16.75 0 6.5 2.5 12.5 7 17l52 52c4.5 4.5 10.75 6.75 17 6.75 7.25 0 13-2.5 18-7.75-8.25-8.25-18-15.25-18-28 0-13.25 10.75-24 24-24 12.75 0 19.75 9.75 28 18 5.25-5 8.25-10.75 8.25-18.25zM412 304c0 19-7.75 37.5-21.25 50.75l-36.75 36.5c-13.5 13.5-31.75 20.75-50.75 20.75-19.25 0-37.5-7.5-51-21.25l-51.5-51.75c-13.5-13.5-20.75-31.75-20.75-50.75 0-19.75 8-38.5 22-52.25l-22-22c-13.75 14-32.25 22-52 22-19 0-37.5-7.5-51-21l-52-52c-13.75-13.75-21-31.75-21-51 0-19 7.75-37.5 21.25-50.75l36.75-36.5c13.5-13.5 31.75-20.75 50.75-20.75 19.25 0 37.5 7.5 51 21.25l51.5 51.75c13.5 13.5 20.75 31.75 20.75 50.75 0 19.75-8 38.5-22 52.25l22 22c13.75-14 32.25-22 52-22 19 0 37.5 7.5 51 21l52 52c13.75 13.75 21 31.75 21 51z" fill="currentColor"></path></svg></span><span class="pojo-a11y-toolbar-text">Links Underline</span> </a>, href: #
+link: <a class="pojo-a11y-toolbar-link pojo-a11y-btn-readable-font" data-action="readable-font" data-action-group="toggle" href="#" role="button" tabindex="-1">
+<span class="pojo-a11y-toolbar-icon"><svg version="1.1" viewbox="0 0 448 448" width="1em" xmlns="http://www.w3.org/2000/svg"><title>Readable Font</title><path d="M181.25 139.75l-42.5 112.5c24.75 0.25 49.5 1 74.25 1 4.75 0 9.5-0.25 14.25-0.5-13-38-28.25-76.75-46-113zM0 416l0.5-19.75c23.5-7.25 49-2.25 59.5-29.25l59.25-154 70-181h32c1 1.75 2 3.5 2.75 5.25l51.25 120c18.75 44.25 36 89 55 133 11.25 26 20 52.75 32.5 78.25 1.75 4 5.25 11.5 8.75 14.25 8.25 6.5 31.25 8 43 12.5 0.75 4.75 1.5 9.5 1.5 14.25 0 2.25-0.25 4.25-0.25 6.5-31.75 0-63.5-4-95.25-4-32.75 0-65.5 2.75-98.25 3.75 0-6.5 0.25-13 1-19.5l32.75-7c6.75-1.5 20-3.25 20-12.5 0-9-32.25-83.25-36.25-93.5l-112.5-0.5c-6.5 14.5-31.75 80-31.75 89.5 0 19.25 36.75 20 51 22 0.25 4.75 0.25 9.5 0.25 14.5 0 2.25-0.25 4.5-0.5 6.75-29 0-58.25-5-87.25-5-3.5 0-8.5 1.5-12 2-15.75 2.75-31.25 3.5-47 3.5z" fill="currentColor"></path></svg></span><span class="pojo-a11y-toolbar-text">Readable Font</span> </a>, href: #
+link: <a class="pojo-a11y-toolbar-link pojo-a11y-btn-reset" data-action="reset" href="#" role="button" tabindex="-1">
+<span class="pojo-a11y-toolbar-icon"><svg version="1.1" viewbox="0 0 448 448" width="1em" xmlns="http://www.w3.org/2000/svg"><title>Reset</title><path d="M384 224c0 105.75-86.25 192-192 192-57.25 0-111.25-25.25-147.75-69.25-2.5-3.25-2.25-8 0.5-10.75l34.25-34.5c1.75-1.5 4-2.25 6.25-2.25 2.25 0.25 4.5 1.25 5.75 3 24.5 31.75 61.25 49.75 101 49.75 70.5 0 128-57.5 128-128s-57.5-128-128-128c-32.75 0-63.75 12.5-87 34.25l34.25 34.5c4.75 4.5 6 11.5 3.5 17.25-2.5 6-8.25 10-14.75 10h-112c-8.75 0-16-7.25-16-16v-112c0-6.5 4-12.25 10-14.75 5.75-2.5 12.75-1.25 17.25 3.5l32.5 32.25c35.25-33.25 83-53 132.25-53 105.75 0 192 86.25 192 192z" fill="currentColor"></path></svg></span>
+<span class="pojo-a11y-toolbar-text">Reset</span>
+</a>, href: #
